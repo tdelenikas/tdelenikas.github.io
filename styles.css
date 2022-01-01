@@ -1,0 +1,88 @@
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	font-style: normal;
+	margin: 0;
+	padding: 0;
+	background-color: #1A1818;
+	color: #E0E0E0;
+}
+
+span {
+	color: #909090;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.spacer4 {
+	margin-top: 4em;
+}
+
+.name-text {
+	font-family: Vollkorn;
+	font-size: 2.5em;
+}
+
+.prof-text {
+	font-family: Vollkorn;
+	color: #B0B0B0;
+	font-size: 1.5em;
+	margin: -0.5em;
+}
+
+.moto-text {
+	font-family: Lemonada;
+	font-size: 0.8em;
+	color: #909090;
+	margin-bottom: 1.5em;
+}
+
+.contact-text {
+	font-family: 'PT Mono';
+	font-size: 0.9em;
+	text-align: center;
+	padding-bottom: 0.8em;
+}
+
+.normal-text-div {
+	width: 70%;
+	padding-top: 1em;
+	margin: 0 auto;
+}
+
+.normal-text {
+	font-family: 'Vollkorn';
+	font-size: 1.2em;
+	text-align: center;
+	color: #E0E0E0;
+	padding-bottom: 1em;
+}
+
+a {
+	color: #909090;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+a:active {
+	text-decoration: none;
+}
+
